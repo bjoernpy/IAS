@@ -3,5 +3,5 @@ Intelligente Adaptive Systeme Praktikum
 
 GitHub Reposistory für IAS Praktikum
 
-- Aufgabe - fertig
-- Aufgabe - in Arbeit
+- 1.Aufgabe - fertig
+- 2.Aufgabe - in Arbeit
